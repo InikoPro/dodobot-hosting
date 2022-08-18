@@ -12,3 +12,5 @@ clear
 npm -v
 "Download Dodo Bot Files Code"
 git clone https://github.com/DodoGames7/Dodo-Bot.git
+cd Dodo-Bot
+npm install -g npm@8.18.0
