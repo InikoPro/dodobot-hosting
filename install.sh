@@ -5,7 +5,7 @@ pkg update
 pkg uograde -y
 clear
 echo "Installing & Other"
-pkg i git nodejs wget
+pkg i git nodejs-lts wget
 clear
 "Check Version Nodejs & npm"
 npm -v
