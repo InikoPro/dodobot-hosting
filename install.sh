@@ -5,8 +5,8 @@ pkg update
 pkg uograde -y
 clear
 echo "Installing Nodejs & Other"
-pkg i git nodejs-lts wget
-apt install termux-api
+pkg i git nodejs-lts wget -y
+apt install termux-api -y
 clear
 "Check Version Nodejs & npm"
 npm -v
