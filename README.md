@@ -4,7 +4,7 @@ Dodo Bot Hosting for Linux, Windows, MacOS, Android & Other OS
 #### Why?
 for who to use hosting dodo bot on your other device/OS without any RDP/VPS/Other!
 
-#### Note
+#### Note/Warning
 You can 24/7 Hour (Will be lost money with power bills) **MORE OWN RISK!!!**
 
 # Installer
