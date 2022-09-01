@@ -1,4 +1,5 @@
 # Dodo Bot for Other OS
+<img alt="Discord" src="https://img.shields.io/discord/902261604652056586?label=Discord%20Server&logo=Discord"> 
 Dodo Bot Hosting for Linux, Windows, MacOS, Android & Other OS
 
 #### Why?
