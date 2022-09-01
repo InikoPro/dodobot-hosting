@@ -9,7 +9,7 @@ You can 24/7 Hour (Will be lost money with power bills) **MORE OWN RISK!!!**
 
 #### Features
 - Works with ARM & ARM64 / AMD & Intel
-- Works with PC, Server, Laptop, Raspberry Pi * Other
+- Works with PC, Server, Laptop, Raspberry Pi & Other
 - No Docker requird!
 - Earn Crypto with SGC (Sus Galaxy Coin) **Discord Server from dodo only**
 - 2X faster
