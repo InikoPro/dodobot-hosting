@@ -1,5 +1,5 @@
-# Dodo Bot Android™ (Unofficial)
-Dodo Bot Hosting for Android™
+# Dodo Bot for Other OS
+Dodo Bot Hosting for Linux, Windows, MacOS, Android & Other OS
 
 #### To Install:
 ```
