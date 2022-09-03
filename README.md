@@ -16,27 +16,34 @@ You can 24/7 Hour (Will be lost money with power bills) **MORE OWN RISK!!!**
 - Easy to use!
 
 # Installer
-#### To Install (Windows):
-```
-Coming Soon
-```
+<details>
+<summary><b>To Install (Windows)</summary>
 
-#### To Install (Linux / WSL / Based-Linux):
 ```
 Coming Soon
 ```
+</details>
 
-#### To Install (MacOS):
+<details>
+<summary><b>To Install (Linux / WSL / Based-Linux)</summary>
+ 
 ```
 Coming Soon
 ```
+</details>
 
-#### To Install (Android):
+<details>
+<summary><b>To Install (macOS)</summary>
+ 
 ```
 Coming Soon
 ```
+</details>
 
-#### To Install (Other OS):
+<details>
+<summary><b>To Install (Android)</summary>
+ 
 ```
 Coming Soon
 ```
+</details>
